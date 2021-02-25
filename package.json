@@ -5,7 +5,8 @@
   "main": "lib/engine_liquid.js",
   "dependencies": {
     "fs-extra": "5.0.0",
-    "liquidjs": "9.20.1"
+    "liquidjs": "9.20.1",
+    "sass": "1.32.8"
   },
   "keywords": [
     "Pattern Lab",
